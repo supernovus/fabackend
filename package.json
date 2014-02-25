@@ -1,0 +1,28 @@
+{
+  "name": "fabackend",
+  "description": "Backend REST API for FreeAlways Web Application",
+  "keywords": [
+    "freealways"
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supernovus/fabackend.git"
+  },
+  "author": {
+    "name": "Timothy Totten",
+    "email": "supernovus@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Timothy Totten",
+      "email": "supernovus@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "restify"   : "~2.6.1",
+    "mongojs"   : "~0.10.0",
+    "node-uuid" : "~1.4.1"
+  },
+  "homepage": "https://github.com/supernovus/fabackend"
+}
